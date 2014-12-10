@@ -1,4 +1,4 @@
 bootstrap-wysiwyg-blog
 ======================
 
-A simple blog using bootstrap-wysiwyg and RavenDB
+A simple blog engine using MVC5, bootstrap-wysiwyg and RavenDB
